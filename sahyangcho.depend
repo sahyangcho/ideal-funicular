@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1608934930 source:/home/velya/compas boussole harmonye/sahyangcho/sahyangcho.cpp
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<math.h>
+	<dirent.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
